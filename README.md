@@ -1,8 +1,8 @@
-##Dataset
+## Dataset
 
 Download <code>SBP22_Meta_Ad_Covid_dataset.csv</code>
 
-##Description
+## Description
 We divide the categories into eight different themes: Prevention, Treatment, Di-
 agnosis, Mechanism, Case Report, Transmission, Forecasting, and General. We
 

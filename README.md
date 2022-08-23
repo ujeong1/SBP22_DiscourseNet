@@ -21,3 +21,14 @@ to let audience engaged in the message.
 
 We publicly release the data by providing the list of IDs of Meta ads and the corresponding
 annotation in our github according to the [terms of service of Meta](https://developers.facebook.com/terms/)
+
+## Citation
+If you are using this repo, please cite our work:
+```bash
+@article{jiang2022covaxnet,
+  title={Classifying COVID-19 related Meta Ads using Discourse Representation through Hypergraph},
+  author={Ujun Jeong, Alghamdi Zeyad, Ding Kaize, Cheng Lu, Li Baoxin, Huan Liu},
+  journal={arXiv preprint},
+  year={2022}
+}
+```

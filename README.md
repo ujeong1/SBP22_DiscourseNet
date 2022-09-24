@@ -25,10 +25,12 @@ annotation in our github according to the [terms of service of Meta](https://dev
 ## Citation
 If you are using this repo, please cite our work:
 ```bash
-@article{000,
-  title={Classifying COVID-19 related Meta Ads using Discourse Representation through Hypergraph},
-  author={Ujun Jeong, Alghamdi Zeyad, Ding Kaize, Cheng Lu, Li Baoxin, Huan Liu},
-  journal={arXiv preprint},
-  year={2022}
+@inproceedings{jeong2022classifying,
+  title={Classifying COVID-19 Related Meta Ads Using Discourse Representation Through a Hypergraph},
+  author={Jeong, Ujun and Alghamdi, Zeyad and Ding, Kaize and Cheng, Lu and Li, Baoxin and Liu, Huan},
+  booktitle={International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation},
+  pages={35--45},
+  year={2022},
+  organization={Springer}
 }
 ```

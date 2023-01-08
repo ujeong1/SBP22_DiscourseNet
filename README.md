@@ -6,8 +6,7 @@ Download <code>SBP22_Meta_Ad_Covid_dataset.csv</code>
 We divide the categories into eight different themes: Prevention, Treatment, Di-
 agnosis, Mechanism, Case Report, Transmission, Forecasting, and General.
 
-We have asked two members of our team to label each sample in a multi-class fash-
-ion, which means one sample can be assigned to more or equal to one category.
+We have asked two members of our team to label each sample in a multi-class fashion, which means one sample can be assigned to more or equal to one category.
 
 The instructions for the labeling process requires reading only the text content
 of the ad, and checking every applicable options in the suggested categories.
